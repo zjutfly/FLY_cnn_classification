@@ -1,4 +1,4 @@
-# Text Classification with CNN and RNN
+# FLY Text Classification with CNN （or RNN）
 
 使用卷积神经网络以及循环神经网络进行中文文本分类
 
